@@ -1,92 +1,89 @@
-# 👋 Hi, I'm Tennison Stephen
+# ⚡ Tennison Stephen // AI Developer Interface
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZING...;AI+ENTHUSIAST+DETECTED;JAVA+CORE+ACTIVE;PYTHON+LEARNING+MODULE;FUTURE+ENGINEER+LOADING" />
+</p>
 
 ---
 
-# 🌸 OPTION 1: ANIME STYLE
+## 🧠 SYSTEM PROFILE
 
-<h3 align="center">🎓 Student • 💻 Future Engineer • 🤖 AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Dreaming+Big+🌸;Future+Engineer+⚡;Anime+Inspired+Dev+🎌;Learning+AI+🤖" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" />
-</p>
-
-## 🌸 About Me
-
-* 💡 Passionate about **Engineering & AI**
-* 🐍 Learning **Python**
-* 💻 Mastering **Java**
-* 🎯 Goal: Become a strong developer and build cool projects
+```yaml
+Name: Tennison Stephen
+Role: Student / Future Engineer
+Focus: Artificial Intelligence + Software Development
+Primary Language: Java
+Learning: Python
+Mission: Build intelligent and impactful systems
+Status: In Progress...
+```
 
 ---
 
-## 🛠️ Skills
+## ⚙️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
----
-
-## 📊 Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TennisonStephen&show_icons=true&theme=radical" />
+  <img src="https://img.shields.io/badge/AI-Enabled-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenAI-Learning-8A2BE2?style=for-the-badge" />
 </p>
 
 ---
 
-# 🤖 OPTION 2: AI FUTURISTIC STYLE
+## 📡 CURRENT OPERATIONS
 
-<h3 align="center">⚡ AI-Driven Developer in Progress ⚡</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Initializing...;AI+Enthusiast+Detected;Java+Core+Loaded;Python+Learning+Mode" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
-</p>
-
-## 🤖 About Me
-
-* 🧠 Focused on **Artificial Intelligence & Engineering**
-* ⚙️ Building strong foundation in **Java**
-* 🐍 Transitioning into **Python**
-* 🚀 Mission: Create intelligent systems in the future
+* ⚡ Mastering **Java Core & Advanced Concepts**
+* 🐍 Learning **Python Fundamentals**
+* 🧠 Exploring **Artificial Intelligence Basics**
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 FUTURE DEPLOYMENTS
+
+* 🌐 Develop a **Modern Website System**
+* 🎮 Build a **Java-Based Game Engine**
+
+---
+
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TennisonStephen&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TennisonStephen&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 📊 System Stats
+## 🔥 ACTIVITY TRACKER
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TennisonStephen&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=TennisonStephen&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=TennisonStephen&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Final Note
+## 🌐 NETWORK LINKS
 
-💡 Choose ONE style for your profile (don’t use both together)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-Contact-FF0000?style=for-the-badge&logo=gmail" /></a>
+</p>
 
-* 🌸 Anime → More fun, expressive, unique
-* 🤖 AI Futuristic → More professional, tech-focused
+---
+
+## ⚡ FINAL STATUS
+
+```diff
++ SYSTEM EVOLVING
++ SKILLS UPGRADING
++ FUTURE LOADING...
+```
 
 ---
 
 <p align="center">
-  ⚡ Build. Learn. Repeat.
+  🤖 "The future belongs to those who build it." ⚡
 </p>
