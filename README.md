@@ -1,158 +1,127 @@
-# ⚡ Tennison Stephen // AI Developer Interface v3.0
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=BOOTING+SYSTEM...;AI+ENTHUSIAST+ONLINE;JAVA+CORE+LOADED;PYTHON+MODULE+INITIALIZING;FUTURE+ENGINEER+READY" />
-</p>
+# Hi there 👋 I'm Tennison Stephen
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TennisonStephen&label=Profile+Views&color=00f7ff&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Student;Interested+in+Engineering;AI+Enthusiast;Java+Learner;Building+One+Project+at+a+Time..." />
+
+</div>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## 🚀 About Me
 
 ```yaml
 Name: Tennison Stephen
-Role: Student / Future Engineer
-Focus: Artificial Intelligence + Software Development
-Primary Language: Java
-Learning: Python
-Certifications: 5+ (AI, Generative AI, Tech Courses)
-Goal: Build real-world intelligent systems
-Status: Rapidly Improving 🚀
+
+Role: Student
+
+Interests:
+  - Engineering
+  - Artificial Intelligence
+  - Software Development
+
+Currently Learning:
+  - Java
+  - Python
+  - Data Structures & Algorithms
+  - Git & GitHub
+
+Goal:
+  Build meaningful software that solves real-world problems.
 ```
 
 ---
 
-## ⚙️ TECH STACK
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Enabled-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GenAI-Learning-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-Active-00FFAA?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,html,css"/>
+
 </p>
 
 ---
 
-## 📡 CURRENT OPERATIONS
-
-* ⚡ Mastering **Java (Core + OOP + Basics of DSA)**
-* 🐍 Learning **Python Fundamentals**
-* 🧠 Exploring **Artificial Intelligence Concepts**
-* 📘 Improving **problem-solving & logical thinking**
-
----
-
-## 🚀 FUTURE DEPLOYMENTS
-
-* 🌐 Build a **Modern Responsive Website**
-* 🎮 Develop a **Java GUI Game**
-* 🤖 Create a **Beginner AI Project**
-
----
-
-## 🧪 PROJECT ROADMAP
-
-```diff
-+ Personal Portfolio Website
-+ Java Mini Games (Tic Tac Toe / Snake)
-+ Python Beginner Projects
-+ AI Mini Project (Chatbot / Predictor)
-```
-
----
-
-## 🎓 CERTIFICATIONS
-
-* 🧠 Introduction to Artificial Intelligence
-* 🤖 Generative AI Course
-* 📜 Additional Tech Certifications (5 total completed)
-* 🚀 Continuously learning through online platforms
-
----
-
-## 📊 SYSTEM ANALYTICS
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TennisonStephen&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TennisonStephen&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 ACTIVITY TRACKER
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TennisonStephen&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/TennisonStephen/TennisonStephen/blob/output/github-contribution-grid-snake.svg" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TennisonStephen&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
 </p>
 
 ---
 
-## 🧠 AI TERMINAL
+## 🌱 Currently Exploring
 
-```bash
-> Initializing Tennison AI...
-> Loading Skills... ██████████ 100%
-> Loading Projects... ███████░░░ 70%
-> Certifications... ██████████ 100%
-> Status: Becoming Elite Developer 🚀
-```
+- 🤖 Artificial Intelligence
+- ☕ Java Programming
+- 🐍 Python
+- 📚 Data Structures & Algorithms
+- 💻 Software Development
 
 ---
 
-## 🌐 NETWORK LINKS
+## 🎯 2026 Goals
+
+- 🚀 Build 20+ Projects
+- 📖 Improve Java Skills
+- 🐍 Become Proficient in Python
+- 🌍 Contribute to Open Source
+- 🤝 Collaborate with Developers
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-Contact-FF0000?style=for-the-badge&logo=gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+
+<a href="https://www.linkedin.com/in/tennisonstephen">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 </p>
 
 ---
 
-## ⚡ DAILY MODE
+<div align="center">
 
-```yaml
-Code: ███████░░░ 70%
-Learning: █████████░ 90%
-Discipline: ████████░░ 80%
-Focus: ██████████ 100%
-```
+### 💭 Quote of the Day
 
----
+> *"Stay curious. Keep building."*
 
-## ⚡ FINAL STATUS
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=4F8CC9&style=for-the-badge"/>
 
-```diff
-+ SYSTEM EVOLVING
-+ SKILLS UPGRADING
-+ FUTURE LOADING...
-+ TARGET: ELITE ENGINEER
-```
-
----
-
-<p align="center">
-  🤖 "Build. Learn. Dominate." ⚡
-</p>
+</div>
